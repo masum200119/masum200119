@@ -1,7 +1,6 @@
-![logo](https://github.com/masum200119/masum200119/blob/main/pexels-lum3n-44775-167682.jpg)
 <h1 align="center">Hi 👋, I'm Tahidul Islam</h1>
 <h3 align="center">A passionate Competitive Programmer,developer and Researcher.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
+<img align="center" alt="coding" width="800" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masum200119&label=Profile%20views&color=0e75b6&style=flat" alt="masum200119" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masum200119" alt="masum200119" /></a> </p>
