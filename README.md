@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tahidul Islam</h1>
-<h3 align="center">A passionate Competitive Programmer,developer and Researcher.</h3>
+<h3 align="center">A passionate Competitive Programmer,Developer and Researcher.</h3>
 <img align="center" alt="coding" width="800" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masum200119&label=Profile%20views&color=0e75b6&style=flat" alt="masum200119" /> </p>
 
